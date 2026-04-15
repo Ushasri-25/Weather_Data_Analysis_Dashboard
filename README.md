@@ -78,6 +78,31 @@ WEATHER_DATA_ANALYSIS.xlsx
 
 -------------------------------
 
+### 🌧️ Rainfall KPIs
+| KPI | Value |
+|-----|-------|
+| 💧 Average Rainfall | **55.9 mm** |
+| ⛈️ Peak Single Event | **177.4 mm** — Kerala, Oct 2024 |
+| 🏜️ Minimum Recorded | **4.0 mm** — Rajasthan, Feb 2020 |
+| 🌊 Wettest Season (avg) | **Summer — 104.6 mm** |
+| 🌵 Driest Season (avg) | **Winter — 24.4 mm** |
+| 🌴 Wettest State (avg) | **Kerala — 102.3 mm** |
+| 🏖️ Driest State (avg) | **Rajasthan — 6.7 mm** |
+
+--------------------------
+
+### 🌧️ Rainfall KPIs
+| KPI | Value |
+|-----|-------|
+| 💧 Average Rainfall | **55.9 mm** |
+| ⛈️ Peak Single Event | **177.4 mm** — Kerala, Oct 2024 |
+| 🏜️ Minimum Recorded | **4.0 mm** — Rajasthan, Feb 2020 |
+| 🌊 Wettest Season (avg) | **Summer — 104.6 mm** |
+| 🌵 Driest Season (avg) | **Winter — 24.4 mm** |
+| 🌴 Wettest State (avg) | **Kerala — 102.3 mm** |
+| 🏖️ Driest State (avg) | **Rajasthan — 6.7 mm** |
+
+---------------------------------
 ## 🚀 Getting Started
 
 ### Usage
