@@ -39,11 +39,9 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 | 13 | `Rainy Days` | Numeric | Count of rainy days |
 
 ----------------------------------
+# 📑 Workbook Structure
 
-## 📑 Workbook Structure
-
------------------------------------------
-
+```
 WEATHER_DATA_ANALYSIS.xlsx
 │
 ├── 📋 MAIN DATA         →  Raw dataset (80 records × 13 features)
@@ -53,7 +51,9 @@ WEATHER_DATA_ANALYSIS.xlsx
 ├── 💧 HUMIDITY          →  Humidity distribution & insights
 ├── 🌤️ WEATHER           →  Overall weather pattern analysis
 └── 🌧️ RAINFALL          →  Rainfall distribution & regional trends
+```
 
+---
 -------------------------------------------
 
 ## 🔍 Key Insights & Analyses
