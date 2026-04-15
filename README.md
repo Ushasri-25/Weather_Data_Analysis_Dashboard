@@ -65,7 +65,7 @@ WEATHER_DATA_ANALYSIS.xlsx
 - **💧 Humidity Correlations** — Relationship between humidity, rainfall, and coastal vs. inland states
 ------------------------------------------
 
-### 🌡️ Temperature KPIs
+### 🌡️ Temperature 
 | KPI | Value |
 |-----|-------|
 | 📈 Average Temperature | **26.1 °C** |
@@ -78,7 +78,7 @@ WEATHER_DATA_ANALYSIS.xlsx
 
 -------------------------------
 
-### 🌧️ Rainfall KPIs
+### 🌧️ Rainfall 
 | KPI | Value |
 |-----|-------|
 | 💧 Average Rainfall | **55.9 mm** |
@@ -90,19 +90,34 @@ WEATHER_DATA_ANALYSIS.xlsx
 | 🏖️ Driest State (avg) | **Rajasthan — 6.7 mm** |
 
 --------------------------
+## 📈 Seasonal Breakdown
 
-### 🌧️ Rainfall KPIs
-| KPI | Value |
-|-----|-------|
-| 💧 Average Rainfall | **55.9 mm** |
-| ⛈️ Peak Single Event | **177.4 mm** — Kerala, Oct 2024 |
-| 🏜️ Minimum Recorded | **4.0 mm** — Rajasthan, Feb 2020 |
-| 🌊 Wettest Season (avg) | **Summer — 104.6 mm** |
-| 🌵 Driest Season (avg) | **Winter — 24.4 mm** |
-| 🌴 Wettest State (avg) | **Kerala — 102.3 mm** |
-| 🏖️ Driest State (avg) | **Rajasthan — 6.7 mm** |
+| Season | Obs | Avg Temp | Avg Rainfall | Avg Humidity | Avg Wind |
+|--------|:---:|:--------:|:-----------:|:------------:|:--------:|
+| ☀️ Summer | 20 | 30.5 °C | 104.6 mm | 75.5 % | 18.8 km/h |
+| 🍂 Autumn | 20 | 25.2 °C | 64.4 mm | 64.9 % | 17.7 km/h |
+| 🌸 Spring | 19 | 28.8 °C | 30.4 mm | 55.8 % | 17.9 km/h |
+| ❄️ Winter | 21 | 20.2 °C | 24.4 mm | 59.7 % | 18.3 km/h |
 
 ---------------------------------
+
+## 🗺️ State-wise Profile
+
+| State | Obs | Avg Temp | Avg Rainfall | Avg Humidity | Avg Wind |
+|-------|:---:|:--------:|:-----------:|:------------:|:--------:|
+| 🌴 Kerala | 10 | 26.3 °C | 102.3 mm | 78.1 % | 17.7 km/h |
+| 🌿 Assam | 9 | 22.5 °C | 74.7 mm | 73.0 % | 19.4 km/h |
+| 🎭 Tamil Nadu | 9 | 29.3 °C | 62.8 mm | 66.1 % | 18.4 km/h |
+| 🌊 Odisha | 8 | 28.4 °C | 62.0 mm | 68.1 % | 17.5 km/h |
+| 🐯 West Bengal | 8 | 26.1 °C | 56.9 mm | 65.1 % | 18.6 km/h |
+| 🕌 Uttar Pradesh | 6 | 24.3 °C | 53.2 mm | 61.0 % | 15.0 km/h |
+| 🌆 Maharashtra | 7 | 28.3 °C | 51.4 mm | 62.7 % | 17.5 km/h |
+| 🏰 Karnataka | 7 | 25.7 °C | 47.2 mm | 61.7 % | 20.4 km/h |
+| 🦁 Gujarat | 7 | 26.4 °C | 21.3 mm | 49.0 % | 17.1 km/h |
+| 🌾 Punjab | 3 | 18.0 °C | 20.3 mm | 61.7 % | 19.7 km/h |
+| 🏜️ Rajasthan | 6 | 26.5 °C | 6.7 mm | 43.0 % | 18.9 km/h |
+
+----------------------------
 ## 🚀 Getting Started
 
 ### Usage
