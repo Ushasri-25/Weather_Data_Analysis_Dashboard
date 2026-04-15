@@ -37,7 +37,8 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 | 11 | `Total Rainfall (mm)` | Numeric | Cumulative rainfall |
 | 12 | `Avg Rainfall (mm)` | Numeric | Average rainfall |
 | 13 | `Rainy Days` | Numeric | Count of rainy days |
---------------------------------------------
+
+----------------------------------
 
 ## 📑 Workbook Structure
 
@@ -52,7 +53,8 @@ WEATHER_DATA_ANALYSIS.xlsx
 ├── 💧 HUMIDITY          →  Humidity distribution & insights
 ├── 🌤️ WEATHER           →  Overall weather pattern analysis
 └── 🌧️ RAINFALL          →  Rainfall distribution & regional trends
-----------------------------------------------
+
+-------------------------------------------
 
 ## 🔍 Key Insights & Analyses
 -----------------------------------
