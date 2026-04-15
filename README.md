@@ -43,17 +43,16 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 
 ```
 WEATHER_DATA_ANALYSIS.xlsx
+EATHER__DATA_ANALYSIS.xlsx
 │
-├── 📋 MAIN DATA         →  Raw dataset (80 records × 13 features)
-├── 📊 DASHBOARD         →  Interactive visual dashboard
-├── 📈 PIVOT TABLE       →  Monthly & seasonal aggregations
-├── 🌡️ TEMPERATURE       →  Temperature trend analysis & charts
-├── 💧 HUMIDITY          →  Humidity distribution & insights
-├── 🌤️ WEATHER           →  Overall weather pattern analysis
-└── 🌧️ RAINFALL          →  Rainfall distribution & regional trends
+├── 📋 MAIN DATA        →  Primary dataset  (80 rows × 13 columns)
+├── 📊 DASH BOARD       →  Visual dashboard with charts & KPI cards
+├── 🔢 PIVOT TABLE      →  Monthly & seasonal aggregation summaries
+├── 🌡️  TEMPERATURE     →  Deep-dive: temperature metrics & trends
+├── 💧 HUMIDITY         →  Deep-dive: humidity metrics & trends
+├── 🌤️  WEATHER         →  Combined multi-variable pattern analysis
+└── 🌧️  RAINFALL        →  Deep-dive: rainfall metrics & trends
 ```
-
----
 
 ## 🔍 Key Insights & Analyses
 -----------------------------------
