@@ -65,6 +65,19 @@ WEATHER_DATA_ANALYSIS.xlsx
 - **💧 Humidity Correlations** — Relationship between humidity, rainfall, and coastal vs. inland states
 ------------------------------------------
 
+### 🌡️ Temperature KPIs
+| KPI | Value |
+|-----|-------|
+| 📈 Average Temperature | **26.1 °C** |
+| 🔥 Highest Ever Recorded | **42.0 °C** — Rajasthan, May 2022 |
+| 🥶 Lowest Ever Recorded | **7.0 °C** — Punjab, Jan 2023 |
+| ☀️ Hottest Season (avg) | **Summer — 30.5 °C** |
+| ❄️ Coldest Season (avg) | **Winter — 20.2 °C** |
+| 🏆 Hottest State (avg) | **Tamil Nadu — 29.3 °C** |
+| 🧊 Coolest State (avg) | **Punjab — 18.0 °C** |
+
+-------------------------------
+
 ## 🚀 Getting Started
 
 ### Usage
