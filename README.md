@@ -1,11 +1,9 @@
 ## 🌦️  Weather Data Analysis
 
 A multi-year, multi-state meteorological dataset exploring temperature, rainfall, humidity & wind patterns across India's four seasons.
-
--------------------------------
+--------------------------------------------------------
 ![dashboard_page-0001](https://github.com/user-attachments/assets/e982c98a-1749-4ef3-ab23-e9868a9a4856)
-
-----------------------------------
+----------------------------------------------------------------
  ## 📖 About The Project
 This project delivers an end-to-end weather data analysis covering 80 observations across multiple Indian states over a four-year period (2020–2023). The analysis focuses on temperature trends, rainfall patterns, humidity levels, and seasonal variations — presented through interactive dashboards, pivot tables, and visualizations within a single Excel workbook.
 
@@ -20,12 +18,14 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 | **Seasons** | Winter · Spring · Summer · Autumn |
 
 ------------------------------
-## Features
-|#	|Column	| Type	| Description |
+### Features
+
+| # | Column | Type | Description |
+|:-:|--------|:----:|-------------|
 | 1 | `Date` | Date | Observation date |
 | 2 | `Month` | Text | Calendar month |
 | 3 | `Season` | Text | Seasonal classification |
-| 4 | `State` | Text |### Features
+| 4 | `State` | Text | Indian state |
 | 5 | `Avg Temp (°C)` | Numeric | Average temperature |
 | 6 | `Max Temp (°C)` | Numeric | Maximum recorded temperature |
 | 7 | `Min Temp (°C)` | Numeric | Minimum recorded temperature |
@@ -35,12 +35,10 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 | 11 | `Total Rainfall (mm)` | Numeric | Cumulative rainfall |
 | 12 | `Avg Rainfall (mm)` | Numeric | Average rainfall |
 | 13 | `Rainy Days` | Numeric | Count of rainy days |
-
 --------------------------------------------
 
 ## 📑 Workbook Structure
 
-```
 WEATHER_DATA_ANALYSIS.xlsx
 │
 ├── 📋 MAIN DATA         →  Raw dataset (80 records × 13 features)
@@ -53,6 +51,7 @@ WEATHER_DATA_ANALYSIS.xlsx
 ----------------------------------------------
 
 ## 🔍 Key Insights & Analyses
+-----------------------------------
 
 - **📅 Monthly Temperature Trends** — Aggregated average temperatures across all months revealing peak heat in June and lows in January
 - **🍂 Seasonal Distribution** — Balanced dataset: Winter (21), Summer (20), Autumn (20), Spring (19) records
