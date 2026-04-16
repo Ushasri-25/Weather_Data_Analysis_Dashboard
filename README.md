@@ -44,7 +44,6 @@ This project delivers an end-to-end weather data analysis covering 80 observatio
 
 ```
 WEATHER_DATA_ANALYSIS.xlsx
-EATHER__DATA_ANALYSIS.xlsx
 │
 ├── 📋 MAIN DATA        →  Primary dataset  (80 rows × 13 columns)
 ├── 📊 DASH BOARD       →  Visual dashboard with charts & KPI cards
