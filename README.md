@@ -7,7 +7,8 @@ A multi-year, multi-state meteorological dataset exploring temperature, rainfall
 This project delivers an end-to-end weather data analysis covering 80 observations across multiple Indian states over a four-year period (2020–2023). The analysis focuses on temperature trends, rainfall patterns, humidity levels, and seasonal variations — presented through interactive dashboards, pivot tables, and visualizations within a single Excel workbook.
 
 ----------------------------
-[Weather_Data_Analysis_Dashboard.pdf](https://github.com/user-attachments/files/26758517/Weather_Data_Analysis_Dashboard.pdf)
+
+<img width="1613" height="1151" alt="Weather_Data_Analysis_Dashboard" src="https://github.com/user-attachments/assets/eabcdafb-ba0f-4a43-a885-c0e476f51e96" />
 
 -------------------------------------------------------------
 ## 📊 Dataset Overview
