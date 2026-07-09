@@ -1,11 +1,11 @@
-# Weather Data Analysis 
+   # Weather Data Analysis 
 
 Exploratory data analysis of temperature, rainfall, humidity, and wind patterns across 11 Indian states, built with Excel pivot tables, charts, and an interactive dashboard.
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Data](https://img.shields.io/badge/Records-80-informational?style=flat-square)
+ ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+ ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+ ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+ ![Data](https://img.shields.io/badge/Records-80-informational?style=flat-square)
 
 </div>
 
