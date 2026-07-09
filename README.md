@@ -1,12 +1,19 @@
-## 🌦️  Weather Data Analysis
+# Weather Data Analysis 
 
-A multi-year, multi-state meteorological dataset exploring temperature, rainfall, humidity & wind patterns across India's four seasons.
+Exploratory data analysis of temperature, rainfall, humidity, and wind patterns across 11 Indian states, built with Excel pivot tables, charts, and an interactive dashboard.
+
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Data](https://img.shields.io/badge/Records-80-informational?style=flat-square)
+
+</div>
 
 --------------------------------------------------------
  ## 📖 About The Project
 This project delivers an end-to-end weather data analysis covering 80 observations across multiple Indian states over a four-year period (2020–2023). The analysis focuses on temperature trends, rainfall patterns, humidity levels, and seasonal variations — presented through interactive dashboards, pivot tables, and visualizations within a single Excel workbook.
 
-----------------------------
+
 
 <img width="1613" height="1151" alt="Weather_Data_Analysis_Dashboard" src="https://github.com/user-attachments/assets/eabcdafb-ba0f-4a43-a885-c0e476f51e96" />
 
@@ -158,4 +165,5 @@ Contributions are welcome! If you'd like to enhance the analysis or add new visu
 ⭐ **If you found this project useful, please give it a star!** ⭐
 
 
-----------------------------------
+
+
